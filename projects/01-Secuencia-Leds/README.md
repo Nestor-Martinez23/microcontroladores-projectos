@@ -14,6 +14,6 @@ Este proyecto implementa una secuencia de control de 7 LEDs utilizando un Arduin
 
 ## Simulación en Tinkercad:
 
-Puedes visualizar una simulación de este proyecto en Tinkercad:
+Puedes visualizar una simulación de este proyecto en Tinkercad "Haz click en la imagen":
 
 [![Vista previa en Tinkercad](tinkercad.png)](https://www.tinkercad.com/things/kcJIUwuCBmw-sequences-of-7-leds?sharecode=t4ehzI17yYdyVKhejAZGE1vrYTxsjmChqCpG0B44-JA)

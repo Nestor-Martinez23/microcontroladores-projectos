@@ -1,6 +1,6 @@
-# Secuencia de LEDs y Display de 7 Segmentos con Arduino Nano
+# Secuencia de LEDs y Display de 7 Segmentos con Arduino Uno
 
-Este proyecto implementa una secuencia de control de 4 LEDs y un display de 7 segmentos utilizando un Arduino Nano (ATmega328P). La secuencia de LEDs y los caracteres mostrados en el display son controlados por 3 botones que permiten cambiar entre diferentes modos de operación.
+Este proyecto implementa una secuencia de control de 4 LEDs y un display de 7 segmentos utilizando un Arduino Uno R3 (ATmega328P). La secuencia de LEDs y los caracteres mostrados en el display son controlados por 3 botones que permiten cambiar entre diferentes modos de operación.
 
 ## Modos de Operación:
 

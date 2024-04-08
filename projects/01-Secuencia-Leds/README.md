@@ -1,4 +1,4 @@
-# Secuencia de LEDs con Arduino Uno R3 
+# Secuencia de LEDs con Arduino Uno
 
 Este proyecto implementa una secuencia de control de 7 LEDs utilizando un Arduino Nano (ATmega328P). La secuencia de LEDs es controlada por dos botones que permiten cambiar entre diferentes modos de operación.
 
